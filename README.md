@@ -4,6 +4,15 @@ Neo4j OSM Importer is a simple GUI application designed to load OpenStreetMap (O
 
 ---
 
+Author
+Bongjae Kwon
+Civil and Environmental Engineering GIS/LBS Lab
+Seoul National University
+
+bongjae.kwon@snu.ac.kr
+
+---
+
 ## Features
 
 1. **Start Podman Container**  
