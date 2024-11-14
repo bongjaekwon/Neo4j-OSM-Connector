@@ -1,0 +1,5 @@
+/home/bongjae/바탕화면/neo4j_cpp_connector_UI/build/CMakeFiles/Neo4jCppProject.dir
+/home/bongjae/바탕화면/neo4j_cpp_connector_UI/build/CMakeFiles/edit_cache.dir
+/home/bongjae/바탕화면/neo4j_cpp_connector_UI/build/CMakeFiles/rebuild_cache.dir
+/home/bongjae/바탕화면/neo4j_cpp_connector_UI/build/CMakeFiles/Neo4jCppProject_autogen_timestamp_deps.dir
+/home/bongjae/바탕화면/neo4j_cpp_connector_UI/build/CMakeFiles/Neo4jCppProject_autogen.dir
